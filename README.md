@@ -24,7 +24,7 @@ By Laayek Ibne Habib
 -  `Type 450`
 -  `Press = button`
 
-2. Other Operations: Every thing else is easy and needs no prior guidance
+2. Other operations: Every thing else is easy and needs no prior guidance
 
 ## Technologies Used
 
