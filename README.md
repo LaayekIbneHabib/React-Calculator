@@ -2,7 +2,7 @@
 
 By Laayek Ibne Habib
 
-![Calculator Screenshot](https://i.imgur.com/O3CKScM.gif)
+![Calculator Screenshot](https://i.imgur.com/x37q7mw.png)
 
 ## This Calculator Does
 
@@ -16,9 +16,13 @@ By Laayek Ibne Habib
 
 ## How to Use?
 
-1. Percentages: Let's assume you want to take out 37% of 450
+1. Percentage: Let's assume you want to take out 37% of 450
 
-   (Step 1: Type 37, Step 2: Press % button, Step 3: Press X button, Step 4: Type 450)
+Step i: Type 37
+Step ii: Press % button
+Step iii: Press X button
+Step iv: Type 450
+step v: Press = button
 
 2. Every thing else is easy and needs no prior guidance
 
@@ -26,11 +30,13 @@ By Laayek Ibne Habib
 
 1. `Download and open the folder in your code editor`
 
-2. `Open your terminal`
+2. `Open your code editor's terminal`
 
-3. `npm install`
+3. `npm i`
 
 4. `npm start`
+
+5. `npm run build`
 
 ## Contributions
 
