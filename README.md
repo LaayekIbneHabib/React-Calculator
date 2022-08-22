@@ -18,13 +18,19 @@ By Laayek Ibne Habib
 
 1. Percentage: Let's assume you want to take out 37% of 450
 
-Step i: Type 37
-Step ii: Press % button
-Step iii: Press X button
-Step iv: Type 450
-step v: Press = button
+-  `Type 37`
+-  `Press % button`
+-  `Press X button`
+-  `Type 450`
+-  `Press = button`
 
-2. Every thing else is easy and needs no prior guidance
+2. Other Operations: Every thing else is easy and needs no prior guidance
+
+## Technologies Used
+
+1. `HTML`
+2. `CSS`
+3. `React.js`
 
 ## Installation
 
